@@ -8,3 +8,5 @@ It is an exchange rate calculator, which takes a large range of international cu
 This will use the Fetch API and move JSON objects.
 
 Eventually I will refactor this project using React.
+
+22nd June 2020: N.B. THIS APP REQUIRES A REGISTERED AND WORKING API URL FROM EXCHANGE-API.COM.  IT IS NO LONGER A FREE OPEN API. ONCE YOU HAVE IT, MODIFY THE SCRIPT.JS FILE WITH THE NEW URL.
